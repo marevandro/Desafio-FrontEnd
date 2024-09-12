@@ -25,7 +25,7 @@ O desenvolvimento foi realizado utilizando o framework **Next.js** com **TypeScr
 
 Aqui vai o vídeo demonstrando o projeto em funcionamento:
 
-[![Demonstração do Projeto](link_para_imagem_thumb)](link_para_o_video)
+(https://github.com/marevandro/Desafio-FrontEnd/issues/1)
 
 ## 🔧 Alterações Realizadas
 
