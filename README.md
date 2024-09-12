@@ -23,9 +23,8 @@ O desenvolvimento foi realizado utilizando o framework **Next.js** com **TypeScr
 
 ## 🎥 Demonstração
 
-Aqui vai o vídeo demonstrando o projeto em funcionamento:
+![Projeto Capputteno](https://github.com/user-attachments/assets/a7c0aa2d-9214-4367-b368-d9d872873086)
 
-[https://github.com/marevandro/Desafio-FrontEnd/issues/1](https://github.com/marevandro/Desafio-FrontEnd/issues/1#issue-2523123269)
 
 ## 🔧 Alterações Realizadas
 
