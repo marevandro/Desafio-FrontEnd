@@ -22,8 +22,12 @@ O objetivo deste projeto foi implementar uma e-commerce para a venda de canecas 
 O desenvolvimento foi realizado utilizando o framework **Next.js** com **TypeScript** e **Styled Components** para criação dos componentes e estilização. Os dados são consumidos a partir de uma API GraphQL fornecida.
 
 ## 🎥 Demonstração
+Aqui está um vídeo curto mostrando o projeto em ação:
 
 ![Projeto Capputteno](https://github.com/user-attachments/assets/a7c0aa2d-9214-4367-b368-d9d872873086)
+
+
+[Caso o video não abra clique aqui.](https://github.com/user-attachments/assets/a7c0aa2d-9214-4367-b368-d9d872873086)
 
 
 ## 🔧 Alterações Realizadas
